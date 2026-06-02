@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758181906674",
+    "project_id": "athena-3d80c",
+    "storage_bucket": "athena-3d80c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758181906674:android:831a04e4f3baa06219686b",
+        "android_client_info": {
+          "package_name": "com.athena.athenaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDz8IutUjHfTIb_hsaUkyi7giJif8Q7sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

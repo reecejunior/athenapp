@@ -1,0 +1,6 @@
+{
+  "name": "Athena",
+  "description": "AI-powered supplier, pricing, and logistics intelligence welcome experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
